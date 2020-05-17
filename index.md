@@ -1,5 +1,6 @@
 # It works! ;-)
 
+* [Pâte à pain](pate_à_pain.md)
 
 ## Section 1
 
