@@ -1,7 +1,6 @@
 README
 ======
 
-
 First things first
 ------------------
 
